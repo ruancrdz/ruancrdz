@@ -1,16 +1,28 @@
-### Hi there 👋
+# Ruan Cardozo Montanari
 
-<!--
-**ruancrdz/ruancrdz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Sobre Mim
 
-Here are some ideas to get you started:
+Meu nome é Ruan Cardozo Montanari, tenho 19 anos e sou estudante do curso de Sistemas da Informação na SPTECH. Tenho paixão por tecnologia, programação e desenvolvimento de software. Estou sempre buscando aprender e me aprimorar nas minhas habilidades técnicas.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Experiência
+
+Atualmente, estou focado em meus estudos na SPTECH, mas estou sempre procurando oportunidades para aplicar minhas habilidades de programação e desenvolvimento de software.
+
+## Educação
+
+- Curso de Sistemas da Informação na SPTECH
+
+## Habilidades
+
+- Linguagens de programação: [Liste as linguagens que você conhece]
+- Desenvolvimento web: [Liste suas habilidades relacionadas a desenvolvimento web]
+- Outras habilidades: [Liste outras habilidades relevantes]
+
+## Contato
+
+- Email: [Seu endereço de email]
+- LinkedIn: [Seu perfil no LinkedIn]
+- GitHub: [Seu perfil no GitHub]
+
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ruancrdz&show_icons=true&bg_color=00000000)
