@@ -20,7 +20,11 @@ Atualmente, estou focado em meus estudos na SPTECH, mas estou sempre procurando 
 <a href = "mailto:ruan.montanari@sptech.school"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/ruan-cardozo-montanari/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 </div>
-          
+
 ##
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ruancrdz&show_icons=true&bg_color=00000000)
-##
+           
+<div>
+<a href="https://github.com/ruancrdz">
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ruancrdz&layout=compact&langs_count=7&theme=dracula"/>
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=ruancrdz&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+</div>
