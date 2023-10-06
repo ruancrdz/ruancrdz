@@ -1,6 +1,7 @@
 # Ruan Cardozo Montanari
 
-## Sobre Mim
+<h2 style="color:red;">Sobre Mim</h2>
+
 
 Meu nome é Ruan Cardozo Montanari, tenho 19 anos e sou estudante do curso de Sistemas da Informação na SPTECH. Tenho paixão por tecnologia, programação e desenvolvimento de software. Estou sempre buscando aprender e me aprimorar nas minhas habilidades técnicas.
 
@@ -14,9 +15,14 @@ Atualmente, estou focado em meus estudos na SPTECH, mas estou sempre procurando 
 
 ## Habilidades
 
-- Linguagens de programação: [Liste as linguagens que você conhece]
-- Desenvolvimento web: [Liste suas habilidades relacionadas a desenvolvimento web]
-- Outras habilidades: [Liste outras habilidades relevantes]
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
+                               
+
+<img height="50px" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" /> <img height="50px" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" /> <img height="50px" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" /> <img  height="50px" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
+          
+          
+          
+          
 
 ## Contato
 
