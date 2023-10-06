@@ -26,5 +26,5 @@ Atualmente, estou focado em meus estudos na SPTECH, mas estou sempre procurando 
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ruancrdz&show_icons=true&bg_color=00000000)
-![Snake animation](https://github.com/seu-usuário-aqui/ruancrdz/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/ruancrdz/ruancrdz/blob/output/github-contribution-grid-snake.svg)
 
