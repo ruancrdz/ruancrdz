@@ -1,7 +1,6 @@
 # Ruan Cardozo Montanari
 
-<h2 style="color:red;">Sobre Mim</h2>
-
+<h2>Sobre Mim</h2>
 
 Meu nome é Ruan Cardozo Montanari, tenho 19 anos e sou estudante do curso de Sistemas da Informação na SPTECH. Tenho paixão por tecnologia, programação e desenvolvimento de software. Estou sempre buscando aprender e me aprimorar nas minhas habilidades técnicas.
 
