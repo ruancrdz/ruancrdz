@@ -17,13 +17,14 @@ Atualmente, estou focado em meus estudos na SPTECH, mas estou sempre procurando 
 ## Contatos:
 
 <div>
-<a href = "mailto:ruan.montanari@sptech.school"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-<a href="https://www.linkedin.com/in/ruan-cardozo-montanari/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
+<a href = "mailto:ruan.montanari@sptech.school"><img loading="lazy" src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank"></a>
+<a href="https://www.linkedin.com/in/ruan-cardozo-montanari/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
+
+  
 </div>
 
 ##
-           
-<div>
-<a href="https://github.com/ruancrdz">
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=ruancrdz&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-</div>
+
+![Ruan's GitHub stats](https://github-readme-stats.vercel.app/api?username=ruancrdz&theme=github_dark&show_icons=true)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ruancrdz&layout=donut&theme=github_dark)
