@@ -23,10 +23,9 @@ Atualmente, estou focado em meus estudos na SPTECH, mas estou sempre procurando 
   
 </div>
 
+
+<img width="80%" src="giphy.gif">
+
 ##
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ruancrdz&layout=donut&theme=github_dark)   ![Ruan's GitHub stats](https://github-readme-stats.vercel.app/api?username=ruancrdz&theme=github_dark&show_icons=true)
-
-
-
-<img width="80%" src="giphy.gif">
