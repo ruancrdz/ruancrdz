@@ -23,6 +23,7 @@ Atualmente, estou focado em meus estudos na SPTECH, mas estou sempre procurando 
   
 </div>
 
+##
 
 <img width="80%" src="giphy.gif">
 
