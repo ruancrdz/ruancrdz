@@ -29,4 +29,4 @@ Atualmente, estou focado em meus estudos na SPTECH, mas estou sempre procurando 
 
 ##
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ruancrdz&layout=donut&theme=github_dark)   ![Ruan's GitHub stats](https://github-readme-stats.vercel.app/api?username=ruancrdz&theme=github_dark&show_icons=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=runcrdz&layout=donut&theme=github_dark)   ![Ruan's GitHub stats](https://github-readme-stats.vercel.app/api?username=ruancrdz&theme=github_dark&show_icons=true)
